@@ -1,0 +1,17 @@
+/* Coolors Exported Palette - https://coolors.co/2d00f7-6a00f4-8900f2-a100f2-b100e8-bc00dd-d100d1-db00b6-e500a4-f20089 */
+/* SCSS HEX COLOR*/
+/* SCSS HEX */
+/* SCSS HSL */
+/* SCSS RGB */
+body {
+  background-color: #ffffff; }
+
+nav {
+  background-color: transparent;
+  box-shadow: none;
+  display: flex;
+  justify-content: center; }
+  nav ul a {
+    color: #8900f2; }
+
+/*# sourceMappingURL=style.css.map */
